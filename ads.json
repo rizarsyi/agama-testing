@@ -1,1 +1,18 @@
-{}
+{
+    "authentication": {
+        "projectName": "authentication",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/agama-testing",
+        "githubUri": "https://github.com/rizarsyi/agama-testing",
+        "license": "MIT",
+        "lastUpdated": "1694571058188",
+        "tags": [
+            "openid-connect",
+            "authentication"
+        ],
+        "noDirectLaunch": []
+    }
+}
