@@ -14,5 +14,20 @@
             "authentication"
         ],
         "noDirectLaunch": []
+    },
+    "auth-demo": {
+        "projectName": "auth-demo",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/agama-testing",
+        "githubUri": "https://github.com/rizarsyi/agama-testing",
+        "license": "MIT",
+        "lastUpdated": "1695423176363",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": []
     }
 }
